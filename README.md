@@ -217,3 +217,5 @@ Please review the [contribution](https://wiki.iota.org/shimmer/identity.rs/contr
 To contribute directly to the repository, simply fork the project, push your changes to your fork and create a pull request to get them included!
 
 The best place to get involved in discussions about this library or to look for support at is the `#identity` channel on the [IOTA Discord](https://discord.iota.org). You can also ask questions on our [Stack Exchange](https://iota.stackexchange.com/).
+
+Test fork
